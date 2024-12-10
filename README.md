@@ -17,3 +17,5 @@ This prototype development board is designed in Altium Designer 24.4.
 9. 4 LEDs and push buttons
 
 ![alt text](https://github.com/bkahraman33/FPGA-Dev-Board/blob/main/fpgaDevBoard/PCB%203D%20Print/fpgaDevBoard_top3Dview.png?raw=true)
+
+![alt text](https://github.com/bkahraman33/FPGA-Dev-Board/blob/main/fpgaDevBoard/PCB%203D%20Print/fpgaDevBoard_bottom3Dview.png?raw=true)
