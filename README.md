@@ -1,6 +1,6 @@
 # About
 
-This repo contain Altium schematic, library, and PCB files for prototype development board for 121 pin BGA package version of iCE40HX8K FPGA. This is the customized version of the breakout board for 256 pin BGA package version of iCE40HX8K FPGA (ICE40HX8K-B-EVN) by Lattice Semiconductor.
+This repo contain PDF schematic file for a prototype development board for 121 pin BGA package version of iCE40HX8K FPGA. This is the customized version of the breakout board for 256 pin BGA package version of iCE40HX8K FPGA (ICE40HX8K-B-EVN) by Lattice Semiconductor.
 
 This prototype development board is designed in Altium Designer 24.4.
 
@@ -15,3 +15,5 @@ This prototype development board is designed in Altium Designer 24.4.
 7. 40 pin 0.1'' header for external sensor and other connections
 8. 7 segment LED display
 9. 4 LEDs and push buttons
+
+![alt text](https://github.com/bkahraman33/FPGA-Dev-Board/blob/main/fpgaDevBoard/PCB%203D%20Print/fpgaDevBoard_top3Dview.png?raw=true)
